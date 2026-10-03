@@ -1,0 +1,6 @@
+{
+  "name": "MVSK Portfolio Optimizer",
+  "description": "Higher-Moment (Mean-Variance-Skewness-Kurtosis) Portfolio Optimization with Co-Moment Tensors, Walk-Forward Backtesting vs NIFTY 50, and Quantitative Risk Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
