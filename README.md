@@ -22,6 +22,16 @@ This project implements a **Higher-Moment (MVSK) Portfolio Optimization engine**
 
 ---
 
+## 💡 New to Quantitative Finance? Start Here!
+👉 **[Read the Full Plain-English Guide (CONCEPTS_EXPLAINED_SIMPLY.md)](CONCEPTS_EXPLAINED_SIMPLY.md)** for friendly real-world analogies:
+- 🏏 **The Cricket Team Analogy** of portfolio balancing.
+- 🌊 **The "3-Foot River" Analogy** of why average variance ignores catastrophic drownings.
+- 🚗 **The 4 Moments Explained Like Driving a Car:** Speedometer (Mean), Bumpy road (Variance), Potholes vs. Ramps (Skewness), and Freak Landslides (Kurtosis).
+- 🧂 **The "Salt in the Cake" Analogy** of why naive unscaled formulas get ruined.
+- 📝 **The "Leaked Exam Paper" Analogy** of why walk-forward testing prevents cheating.
+
+---
+
 ## 📐 Mathematical Foundations
 
 ### 1. The Four Statistical Moments of Portfolio Returns
